@@ -128,8 +128,31 @@ endmodule
 ```
 
 OUTPUT:
-
-
+### Logic Gates:
+#### AND GATE
+![and gate](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/559dbcef-d330-462d-ae7d-38a97b4509f2)
+#### OR GATE
+![or gate](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/60d878d7-c456-4f2f-9a97-68c0cb471e17)
+#### NAND GATE
+![nand gate](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/65482277-69bf-465f-9d15-c155a45a5c2c)
+#### NOR GATE
+![nor gate](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/e27ae117-5ca7-42c2-b6ca-103bedd6f0b2)
+#### XOR GATE
+![xor gate - Copy](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/d8c54505-215a-47e6-a7bb-417c29e3dbc5)
+#### XNOR GATE
+![xnor gate](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/5f3b131f-72e0-40d5-85e9-05131e23dcc0)
+#### NOT GATE
+![not gate](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/11841114-0b18-4ba1-9e0d-8b2669596c73)
+### HALF ADDER
+![ex no;1 half adder](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/3e242fd3-fa9a-45a2-8bf9-8626f452ab83)
+### HALF SUBTRACTOR
+![ex no 5 half subtractor](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/f77b3dd7-37d7-450c-ab38-eca4e0fe8f93)
+### FULL ADDER
+![EX NO 3 full adder](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/fbbcbac8-1da0-4792-aaf7-b87d5c4d4300)
+### FULL SUBTRACTOR
+![ex no 4 full subtractor](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/e7e4c1e7-27de-4251-92e0-19e8e0acac4e)
+### 8 BIT RIPPLE CARRY ADDER
+![ex no;2 allgates](https://github.com/nithiyashree2533/VLSI-LAB-EXP-1/assets/161813688/d922f01e-c994-4883-b653-7670fa932894)
 
 RESULT:
 Hence Logic Gates,Adders and Subtractor are simulated and synthesised using Xilinx ISE.
