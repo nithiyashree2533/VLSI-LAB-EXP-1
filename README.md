@@ -4,8 +4,9 @@
 
 EXP NO : 1
 
-Date :16.2.23
-      23.2.23
+Date :16.2.24
+
+      23.2.24
                
 
            SIMULATION OF LOGIC GATES, ADDERS AND SUBTRACTIONS
